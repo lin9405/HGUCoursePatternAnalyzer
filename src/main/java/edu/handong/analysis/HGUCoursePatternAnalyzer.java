@@ -137,8 +137,6 @@ return stuName;
 		}
 		
 	}
-
-
 return courseName;
 	}
 
